@@ -9,4 +9,4 @@ sudo pacman -S \
     neovim \
     tmux
 
-yay -S vicinae
+yay -S vicinae quickshell
