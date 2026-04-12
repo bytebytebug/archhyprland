@@ -3,7 +3,7 @@
 set -e
 
 sudo pacman -S \
-    ttf-dejavu noto-fonts noto-fonts-emoji ttf-liberation \
+    ttf-dejavu noto-fonts noto-fonts-emoji noto-fonts-extra noto-fonts-cjk ttf-liberation \
     gst-libav gst-plugins-bad gst-plugins-good gst-plugins-ugly ffmpeg gstreamer \
     hyprland xdg-desktop-portal xdg-desktop-portal-hyprland \
     kitty \
