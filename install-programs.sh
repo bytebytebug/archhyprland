@@ -17,4 +17,3 @@ sudo pacman -S \
     github-cli \
     less
 
-yay -S vicinae-bin quickshell
